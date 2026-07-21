@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0212_000-J.yaml, hash: 'sha256:702ac2078cfecf798e4d4e7b055cb7c607f3453f4d1ef25bd92aa02aa5bd7569'}
+  - {seq: 0, filename: KR6q0212_000-J.yaml, hash: 'sha256:2d099e18fbf7e40ce50ea95ef171023635c81e7b2c270515948e84f5ae8c8d6d'}
   - {seq: 1, filename: KR6q0212_001-J.yaml, hash: 'sha256:b8db5bf01e6f099af52934007bb45d88df9fc59bd73d7050740248eeaf1897c5'}
   - {seq: 2, filename: KR6q0212_002-J.yaml, hash: 'sha256:fa6f91e58a7ca6fe444d3177a9a76d295b9b17f9699bd6eb6d8d7c795443b9b2'}
   - {seq: 3, filename: KR6q0212_003-J.yaml, hash: 'sha256:243befb9b04ddca9ea5a564f48aa21843dd27aa69083f3d7b5d453489f979414'}
@@ -35,7 +35,7 @@ assets:
   - {seq: 13, filename: KR6q0212_013-J.yaml, hash: 'sha256:48a0e6cf1bd2e63d9fcef31840a91f0c61868e69194059446e3017c8653a35b8'}
   - {seq: 14, filename: KR6q0212_014-J.yaml, hash: 'sha256:8a47b52895c0032e93c70f8a2c001f3a54dd6916b74105fee9c82fdb69dabd09'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0212_000-J.markers.yaml, hash: 'sha256:55ad2107f9bd59b68ac378bc30842722e2fe04fbf5e4ad0f892e08696b302ed0'}
+  - {seq: 0, role: markers, filename: assets/KR6q0212_000-J.markers.yaml, hash: 'sha256:c71428e9bc7deb6ddf7fd243cd1a74414afcd6e1d72506d30835eb7f5b354922'}
   - {seq: 1, role: markers, filename: assets/KR6q0212_001-J.markers.yaml, hash: 'sha256:de3935042d0a146e4fb368908da1161192698a2065ce50d42ac82305af140de9'}
   - {seq: 2, role: markers, filename: assets/KR6q0212_002-J.markers.yaml, hash: 'sha256:9cd25b6ed392b95efe8e67e862b0fb76e5ee5d95d4135f88a2a81a45c69ee7ba'}
   - {seq: 3, role: markers, filename: assets/KR6q0212_003-J.markers.yaml, hash: 'sha256:e10fa80c73191eb13f79c9e8baf3ceb6aaf92b8af6284bd01776f27957ef2299'}
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0212_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 敘
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0212_J_000-mulu-2
     span:
-    - front
+    - body
     - 304
     - 304
   label: 序
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0212_J_000-mulu-3
     span:
-    - front
+    - body
     - 724
     - 724
   label: 總目
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0212_J_000-mulu-4
     span:
-    - front
+    - body
     - 893
     - 893
   label: 目錄
@@ -11471,4 +11471,4 @@ table_of_contents:
   label: 秋日奉酬李平庵見寄
   type: mulu
   level: 1
-hash: sha256:5ebea0058d991fe18fb8bf8bd6b2cc7438c798fb45fe637e04d1ff53f3ddb1db
+hash: sha256:590b15fdcf7e30a97fea34f0004a4179c93b567fa5de69c011c5e5dcaf95b316
